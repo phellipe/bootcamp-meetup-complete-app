@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "run-dev": "nodemon src/server.js",
-    "run-queue": "nodemon src/queue.js",
+    "dev": "nodemon src/server.js",
+    "queue": "nodemon src/queue.js",
     "migrate": "yarn sequelize db:migrate",
     "pretest": "NODE_ENV=test sequelize db:migrate",
     "test": "NODE_ENV=test jest --runInBand",
