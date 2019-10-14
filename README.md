@@ -146,7 +146,7 @@ $ yarn react-native run-android or $ npm react-native run-android
 
 - This project wasn´t tested in a IOS system due unavaiability of a macbook to do so. :mobile_phone_off:
 
-# :fire: Used technologies
+# Technologies used in this project:
 
 - [node.js] - evented I/O for the backend
 - [yarn] - fast, reliable, and secure dependency management.
